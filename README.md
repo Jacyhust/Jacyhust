@@ -1,7 +1,7 @@
-### :cocktail: こんにちは 
+%### :cocktail: こんにちは 
 ### :mortar_board: Query Peocessing, Indexing Optimization, Data Analysis
-### :chart_with_upwards_trend: KMer、 NPDP、 PMP 
-### :dart: Fundings、Projects、Exit channels
+%### :chart_with_upwards_trend: KMer、 NPDP、 PMP 
+%### :dart: Fundings、Projects、Exit channels
 
 <!--
 **hiwumeng/hiwumeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
