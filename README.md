@@ -1,5 +1,5 @@
 ### :cocktail: こんにちは 
-### :mortar_board: Sensors、Data analysis、Transfer learning
+### :mortar_board: Query Peocessing, Indexing Optimization, Data Analysis
 ### :chart_with_upwards_trend: KMer、 NPDP、 PMP 
 ### :dart: Fundings、Projects、Exit channels
 
