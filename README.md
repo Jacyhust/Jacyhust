@@ -1,5 +1,5 @@
 
-### :mortar_board: Query Peocessing, Indexing Optimization, Data Analysis
+### :mortar_board: Query Processing, Indexing Optimization, Data Analysis
 
 <!--
 **hiwumeng/hiwumeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
