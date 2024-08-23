@@ -1,7 +1,3 @@
-
-[//]: %### :mortar_board: Query Processing, Indexing Optimization, Vector Database
-
-
 ## Hi there, [Xi Zhao](https://github.com/Jacyhust) here 👋
 
 - 🔭 I’m pursuing my Ph.D. at [HKUST](https://hkust.edu.hk/) as a [HKPFS](https://cerg1.ugc.edu.hk/hkpfs/index.html) awardee.
