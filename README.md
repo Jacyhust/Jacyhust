@@ -28,3 +28,6 @@
 
 [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=Jacyhust)](http://www.ustxizhao.com)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hzlbbfrog)
+<img alt="GitHub hits" src="https://img.shields.io/github/last-commit/hzlbbfrog/hzlbbfrog?label=profile%20updated&style=flat&color=cfa81c">
+
