@@ -16,7 +16,7 @@
  - Vector Database
 - You can click <a href='https://scholar.google.com.hk/citations?user=8qCNqokAAAAJ&hl=zh-CN' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
-</a> to find my publications.
+ to find my publications.
 
 # 
 ### **📜 My Github stats** 
