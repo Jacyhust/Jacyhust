@@ -22,11 +22,8 @@
 ### **📜 My Github stats** 
 
 
-[![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jacyhust&show_icons=true&theme=merko&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jacyhust&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jacyhust&show_icons=true&theme=merko&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=Jacyhust)](http://www.ustxizhao.com)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Jacyhust)
 <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Jacyhust/Jacyhust?label=profile%20updated&style=flat&color=cfa81c">
