@@ -7,19 +7,19 @@
 - 🔭 I’m pursuing my Ph.D. at [HKUST](https://hkust.edu.hk/) as a [HKPFS](https://cerg1.ugc.edu.hk/hkpfs/index.html) awardee.
 - 📫 How to reach me: [![Mail Badge](https://img.shields.io/badge/xi.zhao@connect.ust.hk-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:xi.zhao@connect.ust.hk "Connect via Email")
 - 💬 You are welcome to ask me anything.
-- 🔬 Want to know more? Click here → [![Website Badge](https://img.shields.io/badge/-My_website-5a5a5a?style=flat&logo=vercel&logoColor=white)](http://zl-he.com)
+- 🔬 Want to know more? Click here → [![Website Badge](https://img.shields.io/badge/-My_website-5a5a5a?style=flat&logo=vercel&logoColor=white)](http://www.ustxizhao.com)
 
-#
+##
 **🌱 Current interests**
-- Computer vision
-- Generative AI
-- Robotics
-- You can click <a href='https://scholar.google.com/citations?hl=en&user=lrDdoG4AAAAJ' target="_blank">
+- Query Processing
+- Indexing Optimization
+- Vector Database
+- You can click <a href='https://scholar.google.com.hk/citations?user=8qCNqokAAAAJ&hl=zh-CN' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a> to find my publications.
 
 # 
-**📜 My poor Github stats** 😭 (I am trying, seriously. 💪)  
+**📜 My Github stats** 
 
 <!--[![hzl's github stats](https://github-readme-stats.vercel.app/api?username=hzlbbfrog&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![hzl's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hzlbbfrog&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
