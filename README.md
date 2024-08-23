@@ -26,8 +26,5 @@
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jacyhust&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Jacyhust&count_private=true&show_icons=true&theme=default)](https://zl-he.com)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jacyhust&layout=compact&langs_count=8)](http://zl-he.com)
-
 [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=Jacyhust)](http://www.ustxizhao.com)
 
