@@ -4,7 +4,7 @@
 
 ## Hi there, [Xi Zhao](https://github.com/Jacyhust) here 👋
 
-- 🔭 I’m pursuing my Ph.D. at [HKUST](https://hkust.edu.hk/) as a HKPFS[HKPFS]([https://hkust.edu.hk/](https://cerg1.ugc.edu.hk/hkpfs/index.html)) awardee.
+- 🔭 I’m pursuing my Ph.D. at [HKUST](https://hkust.edu.hk/) as a HKPFS[HKPFS](https://cerg1.ugc.edu.hk/hkpfs/index.html) awardee.
 - 📫 How to reach me: [![Mail Badge](https://img.shields.io/badge/xi.zhao@connect.ust.hk-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:xi.zhao@connect.ust.hk "Connect via Email")
   %<a href='https://www.linkedin.com/in/%E8%87%B3%E7%AB%8B-%E4%BD%95-3a7139141/'> <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"> </a>
 - 💬 You are welcome to ask me anything.
