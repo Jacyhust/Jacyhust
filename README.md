@@ -1,5 +1,5 @@
 
-%### :mortar_board: Query Processing, Indexing Optimization, Vector Database
+[//]: %### :mortar_board: Query Processing, Indexing Optimization, Vector Database
 
 
 ## Hi there, [Xi Zhao](https://github.com/Jacyhust) here 👋
