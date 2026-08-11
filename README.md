@@ -20,6 +20,7 @@
 
 [![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jacyhust&show_icons=true&theme=merko&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=Jacyhust)](https://github.com/stats-organization/github-stats-extended)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Jacyhust)
 <img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Jacyhust/Jacyhust?label=profile%20updated&style=flat&color=cfa81c">
